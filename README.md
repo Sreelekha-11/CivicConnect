@@ -2,6 +2,9 @@
 
 CivicConnect is a web application that helps citizens report public issues, track complaints, and monitor their resolution.
 
+## Live Demo
+### https://stellar-meerkat-6a1da7.netlify.app/
+
 ## Features
 - User registration and login
 - Submit complaints with images and location details
